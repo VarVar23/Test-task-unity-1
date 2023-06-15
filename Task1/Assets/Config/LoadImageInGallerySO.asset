@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff8e443f7df7f040b1d90b1fc94e4f6, type: 3}
+  m_Name: LoadImageInGallerySO
+  m_EditorClassIdentifier: 
+  _prefabButton: {fileID: 4322529868363390786, guid: d62be1d2231c2f549b79a0724cb16be1, type: 3}
+  _startCountLoadImage: 12
+  _countImages: 66
+  _url: http://data.ikppbb.com/test-task-unity-data/pics/
