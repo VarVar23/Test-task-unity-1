@@ -30,6 +30,7 @@ public class MainMenu : MonoBehaviour
         _openSceneController = new OpenSceneController();
 
         _openSceneController.IntitializeSimpleLoading(_menuButtonsView.GaleryButton, CONSTANTS.IndexSceneLoading);
+        _openSceneController.IntitializeSimpleLoading(_menuButtonsView.TaskButton, CONSTANTS.IndexSceneTask2);
         _blockOrientation = new BlockOrientation();
     }
 }
